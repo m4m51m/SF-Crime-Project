@@ -1,0 +1,6 @@
+findspark
+pyspark
+python-dateutil
+pathlib
+confluent-kafka[avro]==1.1.0
+kafka-python
